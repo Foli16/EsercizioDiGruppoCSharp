@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\bin\Debug\net10.0\Esercizio.exe
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\bin\Debug\net10.0\Esercizio.deps.json
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\bin\Debug\net10.0\Esercizio.runtimeconfig.json
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\bin\Debug\net10.0\Esercizio.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\bin\Debug\net10.0\Esercizio.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\Esercizio.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\Esercizio.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\Esercizio.sourcelink.json
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\Esercizio.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\refint\Esercizio.dll
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\Esercizio.pdb
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\Esercizio.genruntimeconfig.cache
+C:\Users\Fabio\Documents\Repository corso CSharp\EsercizioDiGruppoCSharp\Esercizio\obj\Debug\net10.0\ref\Esercizio.dll
