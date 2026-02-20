@@ -3,7 +3,7 @@
 class Program
 {
     static string[] gusti = { "Cioccolato", "Vaniglia", "Fragola", "Pistacchio", "Limone" };
-    static double[] prezzi = { 1,50, 1,20, 1,30, 2,00, 1,20 };
+    static double[] prezzi = { 1.50, 1.20, 1.30, 2.00, 1.20 };
 
     static void StampaMenu()
     {
@@ -22,4 +22,16 @@ class Program
 
 
 
+    private static double CalcolaTotale(int gusto, int quantita)
+    {
+        return prezzi[gusto] * quantita;
+    }
+
+    private static double ApplicaSconto(double totale)
+    {
+        double scontoApplicato = 0;
+        if(totale > 10)
+            scontoApplicato = totale*0.1;
+        return scontoApplicato;
+    }
 }
