@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Fabio\\.nuget\\packages\\": {}
+    "C:\\Users\\Marco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio\\Documents\\Repository corso CSharp\\EsercizioDiGruppoCSharp\\Esercizio\\Esercizio.csproj",
+      "projectUniqueName": "C:\\Users\\Marco\\Documents\\GitHub\\EsercizioDiGruppoCSharp\\Esercizio\\Esercizio.csproj",
       "projectName": "Esercizio",
-      "projectPath": "C:\\Users\\Fabio\\Documents\\Repository corso CSharp\\EsercizioDiGruppoCSharp\\Esercizio\\Esercizio.csproj",
-      "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabio\\Documents\\Repository corso CSharp\\EsercizioDiGruppoCSharp\\Esercizio\\obj\\",
+      "projectPath": "C:\\Users\\Marco\\Documents\\GitHub\\EsercizioDiGruppoCSharp\\Esercizio\\Esercizio.csproj",
+      "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marco\\Documents\\GitHub\\EsercizioDiGruppoCSharp\\Esercizio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
