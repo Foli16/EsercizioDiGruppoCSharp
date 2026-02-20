@@ -6,4 +6,9 @@ class Program
     {
         
     }
+
+    private static double CalcolaTotale(int gusto, int quantita)
+    {
+        return arrayPrezzi[gusto] * quantita;
+    }
 }
